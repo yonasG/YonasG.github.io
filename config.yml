@@ -1,6 +1,7 @@
-baseURL: "https://yonasg.github.io/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://yonasg.github.io/"
+title: My Academic Site
 theme: PaperMod
+publishDir: docs
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
