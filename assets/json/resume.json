@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yonas Getachew",
+    "label": "Physicst, TBD",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ygetache@gmail.com",
+    "phone": "(720) 675-0057",
+    "url": "https://yonasG.github.io/al-folio/",
+    "summary": "An Ethopian-born physicis PhD",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": " ",
+      "city": "Denver",
       "countryCode": "US",
-      "region": "California"
+      "region": "Colorado"
     },
     "profiles": [
       {
@@ -35,27 +35,36 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "organization": "Polaris Mentor",
+      "location": "Columbus, OH",
+      "position": "Mentor",
+      "url": "https://u.osu.edu/polaris/",
+      "startDate": "2020-04-01",
+      "endDate": "2021-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "The Ohio State University",
+      "location": "Columbus, Ohio",
+      "url": "https://www.osu.edu/",
+      "area": "Condensed Matter Physics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2017-08-15",
+      "endDate": "2024-12-15",
+      "score": "10"
+    }
+    {
+      "institution": "California State University, Long Beach, California",
+      "location": "Long Beach, California",
+      "url": "https://www.csulb.edu/",
+      "area": "Physics",
+      "studyType": "MS",
+      "startDate": "2014-08-15",
+      "endDate": "2017-05-15",
+      "score": "10"
     }
   ],
   "awards": [
@@ -151,7 +160,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Amharic",
       "fluency": "Native speaker",
       "icon": ""
     },
